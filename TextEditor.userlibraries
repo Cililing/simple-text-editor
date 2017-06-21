@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="scala-sdk-2.10.6">
+    <archive path="C:/Users/Przemek/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.6.jar" />
+    <archive path="C:/Users/Przemek/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.6.jar" />
+  </library>
+  <library name="scala-sdk-2.11.8">
+    <archive path="C:/Users/Przemek/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar" />
+    <archive path="C:/Users/Przemek/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar" />
+  </library>
+</eclipse-userlibraries>
+
